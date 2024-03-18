@@ -320,7 +320,6 @@ textarea {
   .formContacto {
     width: 95vw;
   }
-  
 }
 /* Rent a car */
 .rentacar {
@@ -373,16 +372,4 @@ textarea {
 }
 .tarjeta button:hover {
   background-color: #fa8908;
-}
-/* Ajustes específicos para la vista móvil */
-@media (max-width: 768px) {
-    .contenedorRentacar {
-      grid-template-columns: 1fr;
-    }
-  }
-  
-  /* Ajustes específicos para la vista tablet */
-  @media (min-width: 769px) and (max-width: 1023px) {
-    /* Aquí puedes agregar ajustes específicos para la vista tablet */
-  }
-/*# sourceMappingURL=estilo.css.map */
+}/*# sourceMappingURL=estilo.css.map */
